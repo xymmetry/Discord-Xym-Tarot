@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 import os
 import random
-from stayup import stayup
 
 botto = commands.Bot(command_prefix = '*')
 
@@ -74,12 +73,6 @@ async def draw(ctx):
   playerhand = user.showUserHand()
   await ctx.send(f'Welcome to Xym Tarot Reading. The 3 cards drawn represents your: past, present, and future. This is your tarot reading for today:\n{playerhand}\nMay you have great fortune, {ctx.author.name}. Thank you.')
 
-  
-@botto.command()
-async def test(ctx):
-  await ctx.channel.send('testing')
-
-stayup()
 botto.run(os.getenv('TOKEN'))
 
 
