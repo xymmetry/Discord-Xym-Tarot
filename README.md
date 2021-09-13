@@ -12,8 +12,8 @@ Getting Started:
 Invite link for the bot: https://discord.com/api/oauth2/authorize?client_id=879849858012418068&permissions=534723946560&scope=bot
 
 Commands:
-*draw 
-  - This command will draw 3 random Tarot cards from a deck for the user
+
+*draw - This command will draw 3 random Tarot cards from a deck for the user
 
 Author:
 Marc Jason T. David
