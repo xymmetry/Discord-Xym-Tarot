@@ -6,8 +6,7 @@ Requirements:
 - Python
 - Discord 
 
-Getting Started:
-Invite link for the bot: https://discord.com/api/oauth2/authorize?client_id=879849858012418068&permissions=534723946560&scope=bot
+Invite link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=879849858012418068&permissions=534723946560&scope=bot
 
 Commands:
 
