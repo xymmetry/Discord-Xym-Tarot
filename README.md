@@ -6,6 +6,8 @@ Requirements:
 - Python
 - Discord 
 
+Replit link that is running the bot: https://replit.com/@JasonDavid/Xym-Tarot-for-Discord
+
 Invite link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=879849858012418068&permissions=534723946560&scope=bot
 
 Commands:
