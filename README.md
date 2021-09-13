@@ -1,6 +1,4 @@
 # Discord-Xym-Tarot
-Discord bot that reveals the user's Tarot Cards for the day.
-
 Xym Tarot is a discord bot that will draw 3 random Tarot Cards from a deck for the user to analyze their fortune.
 The first card represents the user's past, the second card represents the user's present and the third card represents the user's future. 
 
